@@ -1,2 +1,2 @@
 # DIGIcode-passwordmanager
-Written under Python
+Written in Python. Designing a simple password manager to store retrieve credentials and enhance security for staff of Digicore resorting to insecure practises to record login credentials. The password manager application will have a set of menus to navigate, allow you to add credentials, view stored credentials and exit the manager. Stored credentials are to be organised in a txt file.
